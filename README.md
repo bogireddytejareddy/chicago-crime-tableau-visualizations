@@ -1,4 +1,5 @@
-# Crime Analysis
+# Socioeconomic Determinants of Crime in Chicago
+## Crime Analysis
 ![alt text](https://github.com/bogireddytejareddy/chicago-crime-tableau-visualizations/blob/master/Visualizations/1.png)
 </br>
 </br>
@@ -31,7 +32,7 @@
 </br>
 </br>
 </br>
-# Socio-Economic Factors
+## Socio-Economic Factors
 ![alt text](https://github.com/bogireddytejareddy/chicago-crime-tableau-visualizations/blob/master/Visualizations/3.png)
 </br>
 </br>
